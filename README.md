@@ -1,4 +1,4 @@
-# PSK
+# PSK & QPSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
@@ -53,7 +53,7 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
-#   QSK
+#   QPSK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -131,7 +131,7 @@ plt.show()
 # PSK
 <img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/1bd12f9c-a02a-4464-a7df-9ad1753a0300" />
 
-# QSK
+# QPSK
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/0b1da2f4-2fda-4001-a7c9-0c3636c9bfa1" />
 
 
